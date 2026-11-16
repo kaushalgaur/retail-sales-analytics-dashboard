@@ -1,28 +1,28 @@
-# 📊 Retail Sales Analytics
+# Retail Sales Analytics
 
-🚀 End-to-end Retail Sales Analytics project using **Python and SQL** to analyze sales trends, customer behavior, and product performance.
+End-to-end Retail Sales Analytics project using **Python and SQL** to analyze sales trends, customer behavior, and product performance.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This project demonstrates a complete **data analytics workflow**:
 
-* 📥 Data Collection (Excel)
-* 🧹 Data Cleaning & EDA (Python)
-* 🗄️ Data Analysis (SQL)
+* Data Collection (Excel)
+* Data Cleaning & EDA (Python)
+* Data Analysis (SQL)
 
 The goal is to extract meaningful insights and support data-driven business decisions.
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ![Project Architecture](images/Project%20Architecture.png)
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 retail-sales-analytics-dashboard/
@@ -42,20 +42,20 @@ retail-sales-analytics-dashboard/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-* 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
-* 🗄️ SQL
-* 📁 Excel
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL
+* Excel
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
-* 📌 Generated ~$8.83M total revenue with ~67% repeat customer rate  
-* 📌 Identified that high-value (Champions & Loyal) customers contribute ~46% of total revenue  
-* 📌 Performed RFM segmentation to analyze customer behavior and engagement  
-* 📌 Observed seasonal sales trends with peak demand in specific months  
-* 📌 Conducted cohort analysis to evaluate customer retention over time  
+* Generated ~$8.83M total revenue with ~67% repeat customer rate  
+* Identified that high-value (Champions & Loyal) customers contribute ~46% of total revenue  
+* Performed RFM segmentation to analyze customer behavior and engagement  
+* Observed seasonal sales trends with peak demand in specific months  
+* Conducted cohort analysis to evaluate customer retention over time  
 
 ---
